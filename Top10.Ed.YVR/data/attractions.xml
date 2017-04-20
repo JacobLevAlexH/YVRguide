@@ -1,0 +1,155 @@
+<attractions>
+    <attraction>
+        <name>The Hive </name>
+        <address>520 Industrial Ave, Vancouver, BC V6A 2P3</address>
+        <location>
+            <lat>49.268737</lat>
+            <lon>-123.092540</lon>
+        </location>
+        <webaddress>https://hiveclimbing.com/index.html</webaddress>
+        <phone>604-715-8480</phone>
+        <filters>
+            <filter>Fitness</filter>
+        </filters>
+    </attraction>
+    <attraction>
+        <name>Place 2 </name>
+        <address>address</address>
+        <location>
+            <lat>49.268745</lat>
+            <lon>-123.0995</lon>
+        </location>
+        <webaddress>https://placeholderhttp.com/index.html</webaddress>
+        <phone>604-715-8480</phone>
+        <filters>
+            <filter>Fitness</filter>
+            <filter>Scenery</filter>
+        </filters>
+    </attraction>
+    <attraction>
+        <name>Place 3</name>
+        <address>address</address>
+        <location>
+            <lat>49.268745</lat>
+            <lon>-123.0997</lon>
+        </location>
+        <webaddress>https://placeholderhttp.com/index.html</webaddress>
+        <phone>604-715-8480</phone>
+        <filters>
+            <filter>Fitness</filter>
+            <filter>Scenery</filter>
+        </filters>
+    </attraction>
+    <attraction>
+        <name>Place 4 </name>
+        <address>address</address>
+        <location>
+            <lat>49.268745</lat>
+            <lon>-123.0999</lon>
+        </location>
+        <webaddress>https://placeholderhttp.com/index.html</webaddress>
+        <phone>604-715-8480</phone>
+        <filters>
+            <filter>Fitness</filter>
+            <filter>Scenery</filter>
+        </filters>
+    </attraction>
+    <attraction>
+        <name>Place 5</name>
+        <address>address</address>
+        <location>
+            <lat>49.268745</lat>
+            <lon>-123.1000</lon>
+        </location>
+        <webaddress>https://placeholderhttp.com/index.html</webaddress>
+        <phone>604-715-8480</phone>
+        <filters>
+            <filter>Fitness</filter>
+            <filter>Scenery</filter>
+        </filters>
+    </attraction>
+    <attraction>
+        <name>Place 6</name>
+        <address>address</address>
+        <location>
+            <lat>49.268745</lat>
+            <lon>-123.1002</lon>
+        </location>
+        <webaddress>https://placeholderhttp.com/index.html</webaddress>
+        <phone>604-715-8480</phone>
+        <filters>
+            <filter>Fitness</filter>
+            <filter>Scenery</filter>
+        </filters>
+    </attraction>
+    <attraction>
+        <name>Place 7</name>
+        <address>address</address>
+        <location>
+            <lat>49.268745</lat>
+            <lon>-123.1004</lon>
+        </location>
+        <webaddress>https://placeholderhttp.com/index.html</webaddress>
+        <phone>604-715-8480</phone>
+        <filters>
+            <filter>Fitness</filter>
+            <filter>Scenery</filter>
+        </filters>
+    </attraction>
+    <attraction>
+        <name>Place 8</name>
+        <address>address</address>
+        <location>
+            <lat>49.268745</lat>
+            <lon>-123.1006</lon>
+        </location>
+        <webaddress>https://placeholderhttp.com/index.html</webaddress>
+        <phone>604-715-8480</phone>
+        <filters>
+            <filter>Fitness</filter>
+            <filter>Scenery</filter>
+        </filters>
+    </attraction>
+    <attraction>
+        <name>Place 9</name>
+        <address>address</address>
+        <location>
+            <lat>49.268745</lat>
+            <lon>-123.1008</lon>
+        </location>
+        <webaddress>https://placeholderhttp.com/index.html</webaddress>
+        <phone>604-715-8480</phone>
+        <filters>
+            <filter>Fitness</filter>
+            <filter>Scenery</filter>
+        </filters>
+    </attraction>
+    <attraction>
+        <name>Place 10</name>
+        <address>address</address>
+        <location>
+            <lat>49.268745</lat>
+            <lon>-123.1010</lon>
+        </location>
+        <webaddress>https://placeholderhttp.com/index.html</webaddress>
+        <phone>604-715-8480</phone>
+        <filters>
+            <filter>Fitness</filter>
+            <filter>Scenery</filter>
+        </filters>
+    </attraction>
+    <attraction>
+        <name>Place 11</name>
+        <address>address</address>
+        <location>
+            <lat>49.268745</lat>
+            <lon>-123.1012</lon>
+        </location>
+        <webaddress>https://placeholderhttp.com/index.html</webaddress>
+        <phone>604-715-8480</phone>
+        <filters>
+            <filter>Fitness</filter>
+            <filter>Scenery</filter>
+        </filters>
+    </attraction>
+</attractions>

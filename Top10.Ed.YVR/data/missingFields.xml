@@ -1,0 +1,26 @@
+<attractions>
+    <attraction>
+        <name>Downtown Eastside Women's Centre</name>
+        <address>302 Columbia Street, Vancouver, BC V6A 4J1</address>
+        <location>
+            <lat>49.2821393</lat>
+            <lon>-123.1020496</lon>
+        </location>
+        <webaddress>http://dewc.ca/programs/health-and-wellness</webaddress>
+        <phone>604-715-8480</phone>
+        <services>
+            <filter>Food</filter>
+            <filter>Senior services</filter>
+        </services>
+    </attraction>
+    <attraction>
+        <name>Law Students' Legal Advice Program</name>
+        <address>Room 129, Allard Hall, 1822 East Mall, Vancouver, BC V6T 1Z1</address>
+        <location>
+            <lat>49.2698666</lat>
+            <lon>-123.2535821</lon>
+        </location>
+        <webaddress>http://www.lslap.bc.ca</webaddress>
+        <phone>604-822-5791</phone>
+    </attraction>
+</attractions>

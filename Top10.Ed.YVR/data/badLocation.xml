@@ -1,0 +1,14 @@
+<attraction>
+    <name>The Hive </name>
+    <address>520 Industrial Ave, Vancouver, BC V6A 2P3</address>
+    <location>
+        <lat>49.     268737</lat>
+        <lon>-123.092540</lon>
+    </location>
+    <webaddress>https://hiveclimbing.com/index.html</webaddress>
+    <phone>604-715-8480</phone>
+    <filters>
+        <filter>Fitness</filter>
+    </filters>
+</attraction>
+
